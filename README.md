@@ -16,6 +16,7 @@ Make the profile Greener somehow by the October 2024!
 - I love Paris and France.
 - Try to better than Yesterday thats simple rule to live!
 
+----**Some days are empty cos i am in an intenrship**
 <!---
 Aniruddhan15/Aniruddhan15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
