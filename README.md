@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniruddhan15
-- 👀 I’m interested in ML,DL,CV,NLP
-- 🌱 I’m currently learning DL,CV,NLP
+- 👀 I’m interested in ML,Deep Learning,CV,NLP
+- 🌱 I’m currently learning Deep Learning,CV,NLP, streamlit, 
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me LinkedInProfile : www.linkedin.com/in/n-aniruddhan-15688021b
 
