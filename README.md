@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭I’m currently working on GAN Project<br><br>🌱 I’m currently learning NLP, Generative AI, LLMs<br><br>👨‍💻 All of my projects are available at My GitHub Repositories<br><br>📫 How to reach me aniruddhan26@gmail.com<br><br>⚡ Fun fact Twitter war>>>> any war<br>
+Intern at GFG (technical content writer) 🔭I’m currently working on GAN Project<br><br>🌱 I’m currently learning NLP, Generative AI, LLMs<br><br>👨‍💻 All of my projects are available at My GitHub Repositories<br><br>📫 How to reach me aniruddhan26@gmail.com<br><br>⚡ Fun fact Twitter war>>>> any war<br>
 
 
 ## 🌐 Socials:
