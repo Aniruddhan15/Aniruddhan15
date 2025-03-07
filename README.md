@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on Generative AI and primarily publishing 5th and 6th publication (3rd in quantum), both in quantum  <br><br>🌱 I’m currently learning NLP, Generative AI, LLMs<br><br>👨‍💻 All of my projects are available at My GitHub Repositories<br><br>📫 How to reach me aniruddhan26@gmail.com<br><br>⚡ Fun fact Twitter war>>>> any war<br>
+🔭I’m currently working on Generative AI and primarily publishing 5th and 6th publication (3rd in quantum), both in quantum  <br><br>🌱 I’m currently learning NLP, Generative AI, Agentic AI and bit of publishing articles on GFG <br><br>👨‍💻 All of my projects are available at My GitHub Repositories<br><br>📫 How to reach me aniruddhan26@gmail.com<br><br>⚡ Fun fact Twitter war>>>> any war<br>
 
 
 ## 🌐 Socials:
