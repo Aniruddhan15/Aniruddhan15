@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on Generative AI and primarily publishing 6th and 7th publication (My publications include domains of DL, NLP, NLP, ML)   <br><br>🌱 I’m currently learning Stable Diffusion NLP, Generative AI (GANs and AEs), Agentic AI and bit of publishing articles on GFG <br><br>👨‍💻 All of my projects are available at My GitHub Repositories<br><br>📫 How to reach me aniruddhan26@gmail.com<br><br>⚡ Fun fact Twitter war>>>> any war<br>
+🔭I’m currently working on Generative AI and primarily publishing 6th and 7th publication (My publications include domains of DL, NLP, NLP, ML)   <br><br>🌱 I’m currently learning Stable Diffusion NLP, RAG-LLM, Agentic AI, publishing articles on GFG, trying script making and podcasting <br><br>👨‍💻 All of my projects are available at My GitHub Repositories<br><br>📫 How to reach me aniruddhan26@gmail.com<br><br>⚡ Fun fact Twitter war>>>> any war<br>
 
 
 ## 🌐 Socials:
