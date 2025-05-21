@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **Generative AI** and preparing my **6th & 7th research publications**.  
+- 🔭 I’m currently working on **Generative AI & Agentic AI** and preparing my **6th & 7th research publications**.  
 - 🌱 Learning & exploring:
   - 🧬 **Stable Diffusion NLP**
   - 🧠 **RAG-LLM**
