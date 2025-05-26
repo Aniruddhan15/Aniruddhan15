@@ -51,6 +51,11 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-4D7FFF?style=for-the-badge&logo=llama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-7B68EE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chainlit-3333FF?style=for-the-badge&logo=chatbot&logoColor=white"/>
 </p>
 
 ---
@@ -95,4 +100,3 @@
   <img src="https://visitcount.itsvg.in/api?id=Aniruddhan15&icon=7&color=0" alt="Visitor Count"/>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
