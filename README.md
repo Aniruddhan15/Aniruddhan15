@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Aniruddhan</h1>
 
 <p align="center">
-  🔬 Generative AI Enthusiast | 📚 6th & 7th Publications in Progress | 🧠 Deep Learning, NLP, ML  
+  🔬 Generative AI Enthusiast | 📚 6th & 7th Publications in Progress | 🧠 Deep Learning, NLP, ML | 💫Mission MLOps💫
 </p>
 
 ---
