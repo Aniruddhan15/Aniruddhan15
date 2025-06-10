@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Generative AI & Agentic AI** and preparing my **6th & 7th research publications**.  
 - 🌱 Learning & exploring:
-  - 🧬 **Stable Diffusion NLP**
+  - 🧬 **Stable Diffusion**
   - 🧠 **RAG-LLM**
   - 🤖 **Agentic AI**
   - ✍️ Writing tech articles on **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/aniruddhan26/articles)**  
